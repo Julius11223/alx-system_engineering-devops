@@ -1,2 +1,3 @@
 A script that switches the current user to betty
-Ascript to print current username
+A script to print current username
+A script that prints the groups of the current user
